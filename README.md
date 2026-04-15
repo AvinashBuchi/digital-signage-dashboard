@@ -146,6 +146,5 @@ Base URL: `http://127.0.0.1:5050/api/screens`
 Add screenshots here after running the app:
 
 - Dashboard view: ![Dashboard](./screenshots/dashboard.png)
-- Add screen form: `![Add Screen](./screenshots/add-screen.png)`
-- Scheduler example: `![Scheduler](./screenshots/scheduler.png)`
+
 
